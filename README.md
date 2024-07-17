@@ -10,3 +10,8 @@ Research paper s :
     |--> github link (https://github.com/XDU-AI-LYYLab/MultimodalSarcasmDetection)
   |-->A sentiment-aware hierarchical fusion network for multimodal sarcasm detection
     |--> github link ()
+
+Multi modal dataset
+> https://github.com/soujanyaporia/MUStARD?tab=readme-ov-file
+
+
